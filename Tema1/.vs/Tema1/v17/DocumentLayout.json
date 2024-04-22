@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\-Net\\Tema1\\Tema1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41CD36F9-FD4C-4DE0-BC3B-720182CAE8C3}|LabProject.Database\\Tema1.Database.csproj|d:\\-net\\tema1\\tema1\\labproject.database\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CD36F9-FD4C-4DE0-BC3B-720182CAE8C3}|LabProject.Database\\Tema1.Database.csproj|solutionrelative:labproject.database\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "D:\\-Net\\Tema1\\Tema1\\LabProject.Database\\Repositories\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Repositories\\OrdersRepository.cs",
+              "ToolTip": "D:\\-Net\\Tema1\\Tema1\\LabProject.Database\\Repositories\\OrdersRepository.cs",
+              "RelativeToolTip": "LabProject.Database\\Repositories\\OrdersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:03:21.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
