@@ -15,6 +15,8 @@ namespace Tema1.Database.Context
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Order> Orders { get; set; }
 
+
+        public DbSet<User> Users { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder
